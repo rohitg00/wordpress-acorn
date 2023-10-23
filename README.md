@@ -10,7 +10,7 @@ You can deploy the sample web app on the Acorn SaaS Platform to test the Applica
 Let us have a close look at the Acornfile and see what is defined:
 
 - **Containers**: These containers will be deployed for running ownCloud. We have two containers, one for ownCloud and the other for Redis. We are setting the environment variables returned from the MariaDB Acorn service for the WordPress container.
-- **Services**: Acron services are external services your application can utilize. In this case, we use the [MariaDB Acorn service](https://github.com/acorn-io/mariadb/pkgs/container/mariadb).
+- **Services**: Acorn services are external services your application can utilize. In this case, we use the [MariaDB Acorn service](https://github.com/acorn-io/mariadb/pkgs/container/mariadb).
 
 
 ## Steps
