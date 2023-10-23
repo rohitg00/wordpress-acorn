@@ -1,4 +1,4 @@
-# ownCloud
+# WordPress
  About  Acornfile for running WordPress on Acorn.
 
  ## Deploy the WordPress App 
